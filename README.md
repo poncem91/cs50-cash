@@ -1,4 +1,4 @@
-## CS50-Cash
+## CS50 - Cash
 My work for CS50's Cash assignment.
 
 A program that calculates the minimum number of coins required to give a user change.
